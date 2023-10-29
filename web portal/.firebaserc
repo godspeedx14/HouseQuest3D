@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "plus-one-dimension"
+  },
+  "targets": {
+    "plus-one-dimension": {
+      "hosting": {
+        "pod": [
+          "plus-one-dimension"
+        ],
+        "hq": [
+          "housequest3d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
